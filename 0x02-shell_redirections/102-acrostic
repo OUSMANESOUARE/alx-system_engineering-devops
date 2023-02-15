@@ -1,2 +1,2 @@
 #!/bin/bash
-cuit -c 1 | paste -s -d"
+cuit -c 1 | paste -s -d "
